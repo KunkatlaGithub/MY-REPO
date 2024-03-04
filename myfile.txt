@@ -1,0 +1,44 @@
+Want to improve your automation testing skills?
+
+☄ Before attempting automation testing, it is recommended to acquire knowledge of the following top 10 things:
+
+----------------------------------------
+
+🚀 Programming:
+ A good understanding of programming concepts is essential for automation testing. Knowledge of a programming language such as Java, Python, C#, or JavaScript is crucial.
+-----------------------------------------
+
+🚀 Test fundamentals: 
+It's important to understand the fundamentals of software testing, including types of testing, test plans, test cases, and test scripts.
+----------------------------------------
+
+🚀 Testing frameworks:
+ Familiarity with testing frameworks like JUnit, TestNG, NUnit, or MSTest is important as it can help in writing effective automated tests.
+--------------------------------------
+
+🚀 Test automation tools: 
+Knowledge of popular automation tools like Selenium WebDriver, Appium, TestComplete, or Robot Framework can be helpful in automating web or mobile applications.
+----------------------------------
+
+🚀 Test management tools: 
+Knowledge of test management tools like JIRA, HP ALM, or TestRail can help in managing test cases and test results.
+---------------------------------
+
+🚀 APIs and Web Services: 
+Understanding the basics of APIs and web services is important for automating APIs, web services, or microservices.
+---------------------------------
+
+🚀 Version Control Systems: 
+Knowledge of version control systems like Git, SVN, or TFS can be helpful in managing automation scripts and versioning.
+-------------------------------
+
+🚀 Continuous Integration/Continuous Delivery (CI/CD): 
+Understanding the basics of CI/CD and DevOps is important for integrating automation testing into the software development lifecycle.
+------------------------------
+
+🚀 Database fundamentals: 
+Basic knowledge of SQL and databases can be helpful in automating database testing.
+------------------------------
+
+🚀 Problem-solving skills: 
+Finally, problem-solving skills are crucial for automation testing. You need to be able to identify issues in the application and debug automation scripts effectively
